@@ -1,0 +1,24 @@
+# Tourlane
+
+> Tourlane (Tourlane GmbH) is a travel planning company that creates personalized, custom multi-day trip packages. Travelers are paired with destination travel experts for one-on-one consultations, free initial trip planning, complete booking management, and dedicated support throughout their trip. Tourlane is a portfolio company of HV Capital. Tourlane publishes no public developer API.
+
+## Company
+
+- [Website](https://www.tourlane.com/): Tourlane homepage — destinations, travel styles, and trip planning
+- [About Us](https://www.tourlane.com/about-us/): How traveling with Tourlane works
+- [Destinations](https://www.tourlane.com/destinations/): Featured destinations catalog
+- [Travel Styles](https://www.tourlane.com/travel-styles/): Trip types offered
+- [Support Portal](https://support.tourlane.com/): Customer help center
+- [Careers](https://careers.tourlane.com/): Working at Tourlane
+- [Press](https://www.tourlane.com/press): Press and media
+- [Customer Login](https://www.tourlane.com/portal/login): Traveler portal login
+- [GitHub Organization](https://github.com/tourlane): Tourlane GmbH engineering (open-source forks and internal tooling; no public API/SDK)
+
+## Legal
+
+- [Privacy Policy](https://www.tourlane.com/privacy-policy/)
+- [Terms & Conditions](https://www.tourlane.com/terms-and-conditions/)
+
+## API Evangelist profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/tourlane/refs/heads/main/apis.yml): Machine-readable profile of Tourlane in the API Evangelist network
